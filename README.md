@@ -1,5 +1,13 @@
 # Meme-Generator
-A meme generator created in React
+A meme generator created in React.
+
+    You can input a top and bottom text, then click generate, to receive a new random image.
+
+    You can also provide a link url to an image you would like to display in the field below and click customize.
+
+
+https://user-images.githubusercontent.com/97418619/179339476-4e8a5c72-7345-455f-84b5-7c8475989750.mp4
+
 
     Instructions:
 
