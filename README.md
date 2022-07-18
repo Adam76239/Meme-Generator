@@ -1,5 +1,5 @@
 # Meme-Generator
-A meme generator created in React.
+A meme generator created in React, to create custom memes, using an API to fetch a random image or using an image url.
 
     You can input a top and bottom text, then click generate, to receive a new random image.
 
